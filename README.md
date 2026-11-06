@@ -1,2 +1,2 @@
-# rizzos4.github.it
+# rizzos4.github.io
 Sito web e laboratorio didattico di TPSI
